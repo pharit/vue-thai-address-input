@@ -1,11 +1,11 @@
 {
-  "name": "vue-thai-address-input",
-  "version": "0.2.1",
+  "name": "vue2-thai-address-input",
+  "version": "0.2.2",
   "description": "Thai address autocomplete for Vue.js",
-  "author": "tsctao <taosc2@gmail.com>",
+  "author": "pharit <pharit.note@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tsctao/vue-thai-address-input.git"
+    "url": "https://github.com/pharit/vue-thai-address-input.git"
   },
   "main": "dist/vue-thai-address-input.common.js",
   "module": "dist/vue-thai-address-input.esm.js",

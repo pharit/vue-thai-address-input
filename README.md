@@ -11,7 +11,7 @@ https://tsctao.github.io/vue-thai-address-input/
 ## Installation
 
 ```bash
-npm install --save vue-thai-address-input
+npm install --save vue2-thai-address-input
 ```
 
 ## Usage
@@ -20,9 +20,9 @@ npm install --save vue-thai-address-input
 
 ```js
 import Vue from 'vue'
-import VueThaiAddressInput from 'vue-thai-address-input'
+import VueThaiAddressInput from 'vue2-thai-address-input'
 // You need a specific loader for CSS files like https://github.com/webpack/css-loader
-import 'vue-thai-address-input/dist/vue-thai-address-input.css'
+import 'vue2-thai-address-input/dist/vue-thai-address-input.css'
 
 Vue.use(ThaiAddressInput);
 ```
